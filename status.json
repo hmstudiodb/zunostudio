@@ -1,0 +1,26 @@
+[{
+    "com.ai.callannie": {
+      "is_id": "85460dcd",
+
+      "am_ba": "ca-app-pub-3940256099942544/6300978111",
+      "am_in": "ca-app-pub-3940256099942544/1033173712",
+      "am_vi": "",
+      "am_na": "ca-app-pub-3940256099942544/2247696110",
+
+      "interval": 10000,
+
+      "status":2,
+      "version_code":0,
+      "update_info":{
+        "update_title":"A new version is available",
+        "button_name":"Update app",
+        "des":"Our App makes writing music easy! Create your own music and beats. Creating music wherever you are with EasyBeat. The beats will add a special rhythm to the sound.\nEasyBeat is the only simple music creation app that expresses your musical talents.\nAn extensive library of the highest quality and most fashionable sound packs in the launcher.",
+        "package":"com.uminate.easybeat",
+        "update_button":"Update now",
+        "icon":"https://play-lh.googleusercontent.com/hks_e0s68zWs4FWHSHbzo28H8eTiJ7uczqWnDZvWj3x7-f28rFkLSndScblCx0mRYUA=s96-rw",
+        "app_name":"Create Music DJ Pad"
+      },
+
+      "ads_list": ["am", "is"]
+    }
+}]
