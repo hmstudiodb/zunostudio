@@ -22,5 +22,8 @@
       },
 
       "ads_list": ["am", "is"]
+    },
+    "com.ai.callannie": {
+      "step": "5"
     }
 }]
